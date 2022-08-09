@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "esModuleInterop": true,
+      "target": "es2019",
+      "noImplicitAny": true,
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "strict": true,
+      "outDir": "dist",
+      "skipLibCheck": true,
+      "noErrorTruncation": false,
+      "resolveJsonModule": true
+    },
+    "include": [
+      "src/**/*"
+    ]
+  }
+  
